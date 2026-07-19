@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="backend/API/PropertyPlatform.API.csproj" />
+  <Project Path="backend/Core/PropertyPlatform.Core.csproj" />
+  <Project Path="backend/Infrastructure/PropertyPlatform.Infrastructure.csproj" />
+  <Project Path="frontend/PropertyPlatform.Frontend.csproj" />
+  <StartupProject Path="frontend/PropertyPlatform.Frontend.csproj" />
+</Solution>
